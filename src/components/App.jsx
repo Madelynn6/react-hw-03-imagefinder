@@ -1,5 +1,4 @@
 import { Component } from 'react';
-
 import axios from 'axios';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import { MagnifyingGlass } from 'react-loader-spinner';
