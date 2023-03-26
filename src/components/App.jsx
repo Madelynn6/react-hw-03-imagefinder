@@ -10,8 +10,6 @@ import ImageGalleryItem from './ImageGalleryItem/ImageGalleryItem';
 import Button from './Button/Button';
 import Modal from './Modal/Modal';
 
-// import { fetchPhotos } from './services/api';
-
 class App extends Component {
   state = {
     photos: [],
