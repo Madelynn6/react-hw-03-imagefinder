@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import css from './SearchBar.module.css';
 
 import { Component } from 'react';
@@ -41,10 +40,5 @@ class SearchBar extends Component {
     );
   }
 }
-
-// ContactList.propTypes = {
-//   filtered: PropTypes.array,
-//   handleChange: PropTypes.func,
-// };
 
 export default SearchBar;

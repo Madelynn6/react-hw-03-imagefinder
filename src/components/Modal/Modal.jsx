@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import { Component } from 'react';
 import css from './Modal.module.css';
 
@@ -27,10 +26,5 @@ class Modal extends Component {
     );
   }
 }
-
-// ContactList.propTypes = {
-//   filtered: PropTypes.array,
-//   handleChange: PropTypes.func,
-// };
 
 export default Modal;

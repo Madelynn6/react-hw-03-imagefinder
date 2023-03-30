@@ -1,4 +1,3 @@
-// import PropTypes from 'prop-types';
 import css from './ImageGalleryItem.module.css';
 import { Component } from 'react';
 
@@ -16,10 +15,5 @@ class ImageGalleryItem extends Component {
     ));
   }
 }
-
-// ContactList.propTypes = {
-//   filtered: PropTypes.array,
-//   handleChange: PropTypes.func,
-// };
 
 export default ImageGalleryItem;
